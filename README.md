@@ -1,5 +1,5 @@
-## Hi there 👋
-## Rhythm Here!
+## Hello World 👋
+## This is Rhythm!
 
 - 🔭 I’m currently working on
   - implementing Transformer architectures from scratch
