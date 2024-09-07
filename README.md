@@ -1,53 +1,44 @@
-# Hello World 👋
-## This is Rhythm!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+This+is+Rhythm!;" />
+</h1>
 
-- 🔭 I’m currently working on
-  - implementing transformer architectures from scratch
-  - brushing up my DSA skills
-- 🌱 I’m currently (re)learning Math
-- 👯 I’m looking to collaborate on state-of-the-art ML research projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a musician too btw. The name says it all!
+<h3 align="center">A Passionate Programmer and an ML Enthusiast </h3>
 
-This is my LeetCode (DSA) journey so far.👇
+<div align="center">
+  
+ 🔭 I’m currently working on **implementing transformer architectures from scratch** and **brushing up my DSA skills** 
+ 
+ 🌱 I’m currently (re)learning **Mathematics**
+
+ 👯 I’m looking to collaborate on **state-of-the-art ML research projects**
+ 
+💬 Ask me about **Python, Pytorch, Math... or the nitty-gritty of ML**
+
+⚡ Fun fact **I am a musician too btw. The name says it all!**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="duttarhythm18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/rhythm-d-807004246/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ My Toolbox ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,sklearn,flask,opencv,mysql,mongodb,vscode,visualstudio" /><br>
+</div>
+
+<br/>
+<hr/>
+
+And here's my LeetCode (DSA) journey so far.👇
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/rhythmd18)](https://leetcode.com/u/rhythmd18/)
 
-This is `me.cpp`👇
-```c++
-#include <iostream>
-#include <vector>
-
-class Me
-{
-public:
-  std::string name = "Rhythm Dutta";
-  std::string dob = "14/12/2000";
-  std::string edu = "MSc Data Science";
-  std::string college = "Vellore Institute of Technology";
-  bool is_lifelong_learner = true;
-  std::string os_i_use = "Linux";
-  std::vector<std::string> skills = {
-    "Machine Learning",
-    "Data Science",
-    "Computer Vision",
-    "Python",
-    "PyTorch",
-    "Java",
-    "C++",
-    "Mathematics"
-  };
-  std::vector<std::string> links = {
-    "https://www.linkedin.com/in/rhythm-d-807004246/",
-    "https://x.com/RhythmDutta"
-  };
-  void get_in_touch()
-  {
-    for (std::string link : links)
-    {
-      open_new_tab();
-      type_url(link);
-    }
-  }
-};
-```
