@@ -2,7 +2,7 @@
 ## This is Rhythm!
 
 - 🔭 I’m currently working on
-  - implementing Transformer architectures from scratch
+  - implementing transformer architectures from scratch
   - brushing up my DSA skills
 - 🌱 I’m currently (re)learning Math
 - 👯 I’m looking to collaborate on state-of-the-art ML research projects
@@ -15,13 +15,14 @@ This is my LeetCode (DSA) journey so far.👇
 
 This is `me.cpp`👇
 ```c++
-#include <me>
+#include <iostream>
 #include <vector>
+
 class Me
 {
 public:
   std::string name = "Rhythm Dutta";
-  std::string dob = 14/12/2000;
+  std::string dob = "14/12/2000";
   std::string edu = "MSc Data Science";
   std::string college = "Vellore Institute of Technology";
   bool is_lifelong_learner = true;
@@ -29,6 +30,7 @@ public:
   std::vector<std::string> skills = {
     "Machine Learning",
     "Data Science",
+    "Computer Vision",
     "Python",
     "PyTorch",
     "Java",
