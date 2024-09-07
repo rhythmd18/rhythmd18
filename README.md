@@ -38,7 +38,9 @@
 <br/>
 <hr/>
 
-And here's my LeetCode (DSA) journey so far.👇
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/rhythmd18)](https://leetcode.com/u/rhythmd18/)
-
+<div align="center">
+    <h3>And here's my LeetCode (DSA) journey so far.👇<h3>
+    <a href="https://leetcode.com/u/rhythmd18/">
+        <img src="https://leetcard.jacoblin.cool/rhythmd18?ext=heatmap">
+    </a>
+</div>
