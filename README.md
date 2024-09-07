@@ -1,4 +1,4 @@
-## Hello World 👋
+# Hello World 👋
 ## This is Rhythm!
 
 - 🔭 I’m currently working on
