@@ -43,10 +43,3 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-    <h3>And here's my LeetCode (DSA) journey so far.👇<h3>
-    <a href="https://leetcode.com/u/algo_rhythm_/">
-        <img src="https://leetcard.jacoblin.cool/rhythmd18?theme=dark,unicorn&ext=activity">
-    </a>
-</div>
