@@ -25,7 +25,7 @@
     <a href="mailto:duttarhythm18@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a href="https://www.linkedin.com/in/rhythm-d-807004246/" target="_blank">
+    <a href="https://www.linkedin.com/in/algo-rhythm/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
     <a href="https://x.com/RhythmDutta" target="_blank">
