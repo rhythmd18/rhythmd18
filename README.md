@@ -38,7 +38,7 @@
 <h2 align="center">⚒️ My Toolbox ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,sklearn,flask,opencv,mysql,mongodb,vscode,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,django,opencv,postgresql,mongodb,vscode,visualstudio" /><br>
 </div>
 
 <br/>
